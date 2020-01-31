@@ -4,9 +4,7 @@ This is a freelancing project to create a database and its tables including 4 qu
 This database includes 5 tables including :
 <br/>
 - Students
-<br/>
 - Lessons
-<br/>
 - Get_lessons
 <br/>
 - Educations 
