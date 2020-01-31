@@ -10,7 +10,6 @@ This database includes 5 tables including :
 - Teachers
 <br/>
 queries includes :
-<br/>
 - Creating tables and inserting the data
 - Phone number and address of the student called "Ali Ahamdi"
 - First name and last name of the student with the average score of 18
